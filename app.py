@@ -33,7 +33,6 @@ expected_columns = [
     'Reason_other',
     'Employment_Status_part_time',
     'Employment_Status_unemployed',
-    'Employment_Sector_Unknown',
     'Employment_Sector_communication_services',
     'Employment_Sector_consumer_discretionary',
     'Employment_Sector_consumer_staples',
